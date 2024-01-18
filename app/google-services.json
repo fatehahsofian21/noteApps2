@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899604588468",
+    "project_id": "noteapps2-cd528",
+    "storage_bucket": "noteapps2-cd528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899604588468:android:922e2c3c380581cabf74e1",
+        "android_client_info": {
+          "package_name": "com.example.noteapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWilItB0Yu8a7v68SlLhfqJPdyhQgrm2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
